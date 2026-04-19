@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/png" href="../Kurate_Favicon.png" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description"
+    content="Kurate Music, an independent UK record label empowering artists and innovating in sound – awarded with 6 RIAA gold certifications.">
+  <title>Kurate Music</title>
+  <script type="importmap">
+      {
+        "imports": {
+          "three": "https://unpkg.com/three@0.107/build/three.module.js"
+        }
+      }
+    </script>
+  <script type="module" crossorigin src="../assets/index-c2cffbaf.js"></script>
+  <link rel="stylesheet" href="../assets/index-f6bbdbee.css">
+</head>
+
+<body>
+  <div id="root"></div>
+
+  <script src="../libs/ScrollSmoother.min.js"></script>
+  <script src="../libs/ScrollTrigger.min.js"></script>
+
+  
+  
+  
+</body>
+
+</html>
